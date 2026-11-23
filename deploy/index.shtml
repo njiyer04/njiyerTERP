@@ -10,10 +10,10 @@
     <ul>
       <li><strong>Name:</strong> Nayan Iyer</li>
       <li><strong>GitHub Location:</strong> <a href="https://github.com/njiyer04/njiyerTERP">https://github.com/njiyer04/njiyerTERP</a></li>
-      <li><strong>Render Location:</strong> <a href="PENDING_RENDER_URL/">PENDING_RENDER_URL/</a></li>
-      <li><strong>Clearing Database Movies:</strong> <a href="PENDING_RENDER_URL/clearCollection">PENDING_RENDER_URL/clearCollection</a></li>
-      <li><strong>Inserting Movies:</strong> <a href="PENDING_RENDER_URL/insertMovies">PENDING_RENDER_URL/insertMovies</a></li>
-      <li><strong>List Movies:</strong> <a href="PENDING_RENDER_URL/listMovies">PENDING_RENDER_URL/listMovies</a></li>
+      <li><strong>Render Location:</strong> <a href="https://njiyerterp.onrender.com/">https://njiyerterp.onrender.com/</a></li>
+      <li><strong>Clearing Database Movies:</strong> <a href="https://njiyerterp.onrender.com/clearCollection">https://njiyerterp.onrender.com/clearCollection</a></li>
+      <li><strong>Inserting Movies:</strong> <a href="https://njiyerterp.onrender.com/insertMovies">https://njiyerterp.onrender.com/insertMovies</a></li>
+      <li><strong>List Movies:</strong> <a href="https://njiyerterp.onrender.com/listMovies">https://njiyerterp.onrender.com/listMovies</a></li>
     </ul>
   </body>
 </html>
